@@ -4,7 +4,8 @@ Welcome to the sales analysis project for **Lulu's Coffee Shop & Pastries**. Thi
 
 ---
 
-## 📑 Table of Contents
+
+  ## 📑 Table of Contents
 
 - [Project Overview](#project-overview)  
 - [Dashboard Overview](#dashboard-overview)  
@@ -16,6 +17,7 @@ Welcome to the sales analysis project for **Lulu's Coffee Shop & Pastries**. Thi
 - [Tools Used](#tools-used)  
 - [Results & Findings](#results--findings)  
 - [Limitations](#limitations)
+
 
 
 ---
