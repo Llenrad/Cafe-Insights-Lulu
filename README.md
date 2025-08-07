@@ -6,16 +6,17 @@ Welcome to the sales analysis project for **Lulu's Coffee Shop & Pastries**. Thi
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Dashboard](#Dashboard)  
-3. [Dataset Description](#dataset-description)  
-4. [Data Cleaning](#data-cleaning)  
-5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-6. [Visualizations](#visualizations)  
-7. [Insights & Recommendations](#insights--recommendations)  
-8. [Tools Used](#tools-used)  
-9. [Results & Findings](#results--findings)  
-10. [Limitations](#limitations)  
+- [Project Overview](#project-overview)  
+- [Dashboard Overview](#dashboard-overview)  
+- [Dataset Description](#dataset-description)  
+- [Data Cleaning](#data-cleaning)  
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+- [Visualizations](#visualizations)  
+- [Insights & Recommendations](#insights--recommendations)  
+- [Tools Used](#tools-used)  
+- [Results & Findings](#results--findings)  
+- [Limitations](#limitations)
+
 
 ---
 
