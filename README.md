@@ -1,5 +1,5 @@
 
-![Coffee Shop](https://github.com/user-attachments/assets/0901d275-60d3-45a9-aa3a-822aa8da174a)
+<img width="1024" height="1536" alt="Coffee Shop" src="https://github.com/user-attachments/assets/91305245-3553-42c5-9770-8453b15a7b7a" />
 
 ---
 Welcome to the sales analysis project for **Lulu's Coffee Shop & Pastries**. This repository explores sales data to uncover trends, optimize performance, and provide actionable insights for a growing local business.
