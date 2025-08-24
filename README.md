@@ -17,6 +17,7 @@ Welcome to the sales analysis project for **Lulu's Coffee Shop & Pastries**. Thi
 - [Tools Used](#tools-used)  
 - [Results & Findings](#results--findings)  
 - [Limitations](#limitations)
+- [Disclaimer](#Disclaimer)
 
 
 
@@ -112,4 +113,10 @@ This project analyzes sales data from Lulu's Coffee Shop & Pastries to identify 
 - **Limited Time Scope**: Dataset may not reflect long-term behavior  
 - **External Factors**: Weather and promotions not directly tracked  
 - **Assumptions**: Pricing and customer behavior assumed consistent
+
+---
+
+## Disclaimer
+
+This project is for portfolio purposes only. The original concept, dataset, and dashboard design are not mine. I have adapted and documented the work to demonstrate technical and presentation skills. No commercial use is intended, and all rights remain with the original creator or source.
 
